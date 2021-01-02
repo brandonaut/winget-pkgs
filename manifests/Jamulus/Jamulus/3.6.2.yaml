@@ -1,0 +1,14 @@
+Id: jamulus.jamulus
+Publisher: Jamulus
+Name: Jamulus
+AppMoniker: jamulus
+Version: 3.6.2
+Description: Perform real-time jam sessions over the internet.
+Homepage: https://jamulus.io
+License: Copyright (c) Volker Fischer. All rights reserved.
+InstallerType: nullsoft
+Installers:
+  - Arch: x64
+    Url: https://sourceforge.net/projects/llcon/files/Jamulus/3.6.2/Jamulus-3.6.2-installer.exe
+    Sha256: 0BD1DCBC50676AA34D0045DC87CE145B3C5F3AE2F969B516882050A15786627E
+ManifestVersion: 0.1.0
