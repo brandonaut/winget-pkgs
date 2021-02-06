@@ -5,7 +5,7 @@ AppMoniker: jamulus
 Version: 3.6.2
 Description: Perform real-time jam sessions over the internet.
 Homepage: https://jamulus.io
-License: Copyright (c) Volker Fischer. All rights reserved.
+License: Copyright (c) 2005-2021 Volker Fischer and others
 InstallerType: nullsoft
 Installers:
   - Arch: x64
